@@ -44,7 +44,7 @@
 | 폴더 | 무엇 | 먼저 읽을 것 |
 | --- | --- | --- |
 | [katie-from-korea/](katie-from-korea/) | 인스타 katie_from_korea: 미디어 키트, 홈페이지 소스 | katie-from-korea/README.md |
-| [kkomul-store/](kkomul-store/) | 꼬물상점: 캐릭터, 카드뉴스, 디자인 인수인계 | kkomul-store/README.md |
+| [kkomul-store/](kkomul-store/) | 꼬물상점 이미지 원본: 캐릭터, 시안, 카드뉴스, 디자인 인수인계. **글 문서(기획·견적·문의·폼)는 노션 [꼬물상점 표](https://app.notion.com/p/40dfdffd4437803ba434fa7c7697198f)에 쓴다** | kkomul-store/README.md |
 | [growth-blog/](growth-blog/) | 성장기록 블로그(네이버 + 브런치) 원고 | growth-blog/README.md |
 | [review-blog/](review-blog/) | 체험단 블로그 (브랜드 밖) | review-blog/README.md |
 | [tools/](tools/) | 작업 도구. odssi 릴스 편집 툴킷 | tools/README.md, 툴킷의 CLAUDE.md |
