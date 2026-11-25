@@ -1,0 +1,27 @@
+# 시스템
+.DS_Store
+
+# 남의 배포물 (사용조건상 공유 금지, 15GB)
+tools/odssi-style-kit/
+odssi-style-kit/
+
+# 사진·영상·디자인 원본 (용량이 커서 git 제외. 폴더 README로 목록만 관리)
+*.png
+*.PNG
+*.jpg
+*.JPG
+*.jpeg
+*.heic
+*.HEIC
+*.mov
+*.MOV
+*.mp4
+*.MP4
+*.zip
+*.psd
+*.ai
+
+# 비밀
+.env
+*.env
+.claude/settings.local.json
