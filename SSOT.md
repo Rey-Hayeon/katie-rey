@@ -43,7 +43,7 @@ Katie (퍼스널 브랜드)
 | 라인 | 누구를 위해 | 폴더 | 설계 문서 |
 | --- | --- | --- | --- |
 | katie_from_korea | 한국 여행을 꿈꾸거나 계획 중인 해외 팬 | [katie-from-korea/](katie-from-korea/) | [docs/ssot/katie-from-korea.md](docs/ssot/katie-from-korea.md) |
-| 꼬물상점 | 한국 여행객 중심 (굿즈를 갖고 돌아가 추억을 되새길 사람) | [kkomul-store/](kkomul-store/) | [docs/ssot/kkomul-store.md](docs/ssot/kkomul-store.md) |
+| 꼬물상점 | 한국 거주 외국인과 한국 여행객 둘 다 중심 | [kkomul-store/](kkomul-store/) | [docs/ssot/kkomul-store.md](docs/ssot/kkomul-store.md) |
 | 성장기록 블로그 | 퇴사를 고민하거나 막 퇴사한 20대 한국인 | [growth-blog/](growth-blog/) | [docs/ssot/growth-blog.md](docs/ssot/growth-blog.md) |
 | 체험단 블로그 (브랜드 밖) | [미정] | [review-blog/](review-blog/) | [docs/ssot/review-blog.md](docs/ssot/review-blog.md) |
 
