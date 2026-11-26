@@ -25,6 +25,23 @@
 - Katie와 정한 것·대화한 내용은 **저장소에도, 노션 HQ에도** 남긴다. Katie는 노션을 더 자주 보고 쓰고, 문서와 노션에 흩어져 있는 게 싫다.
 - 노션에는 HQ 메인 페이지 본문이 아니라 **HQ 아래 하위 페이지나 표**로 만든다.
 - 저장소가 원본이다. Claude는 저장소를 고칠 때 노션 하위 페이지도 같이 고친다.
-- 지금 있는 하위 페이지: [디지털 노마드 로드맵](https://app.notion.com/p/424fdffd443781879e2afc5821945a75), [Korea 여행 준비 그룹챗](https://app.notion.com/p/424fdffd443781268589edb86f1eb7fd) (2026-11-27)
+- 지금 있는 하위 페이지 (2026-11-27):
+  - [디지털 노마드 로드맵](https://app.notion.com/p/424fdffd443781879e2afc5821945a75) → 그 아래 [Korea 여행 준비 그룹챗](https://app.notion.com/p/424fdffd443781268589edb86f1eb7fd)
+  - katie_from_korea 줄: [Katie_from_korea](https://app.notion.com/p/3f2fdffd4437801cbeb0db06b5ef9f37), [번 돈](https://app.notion.com/p/424fdffd44378168b940dccb0b43632b), [공공 지원사업 캘린더](https://app.notion.com/p/424fdffd44378124ad55df4beff4ee15), [호주로 가는 길](https://app.notion.com/p/424fdffd4437812ba26cf3d2e1b4e596)
+
+## 노션 HQ 메인 배치 [결정 · 2026-11-27]
+
+HQ 메인은 짧게 둔다. 긴 표와 로드맵은 하위 페이지로 보낸다.
+
+| 순서 | 무엇 |
+| --- | --- |
+| 1 | 🧭 목적 (기준 문서 링크 = GitHub SSOT.md) |
+| 2 | 🗺️ 지금 가장 중요한 것: 디지털 노마드 로드맵 요약 + 링크 |
+| 3 | 🎯 어디서 어디로, 🗓️ 분기 마일스톤 |
+| 4 | 🛡️ 나를 지키는 규칙 |
+| 5 | 🧰 라인별 작업실: 줄마다 왼쪽 요약 콜아웃 + 오른쪽 하위 페이지·표 (katie_from_korea, 성장기록 블로그, 체험단 블로그, 꼬물상점, 주간 기록) |
+| 6 | 🔎 레퍼런스 후보 (접기) |
+
+- 새 주제는 HQ 메인에 바로 쓰지 않고, 맞는 라인 줄의 오른쪽에 하위 페이지로 단다.
 
 - SSOT가 바뀌면 노션 HQ의 요약 칸도 맞춰야 한다. Claude가 바뀐 줄을 알려 주고, 노션 반영은 Katie가 하거나 Katie가 요청할 때 Claude가 한다.
